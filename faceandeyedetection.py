@@ -21,6 +21,7 @@ keys_set_2 = {0: "Y", 1: "U", 2: "I", 3: "O", 4: "P",
               5: "H", 6: "J", 7: "K", 8: "L", 9: "_",
               10: "V", 11: "B", 12: "N", 13: "M", 14: "<"}
 
+
 def draw_letters(letter_index, text, letter_light):
     # Keys
     if letter_index == 0:
